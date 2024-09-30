@@ -19,4 +19,8 @@ jawab : Semua tergantung pengguna, jika anda merasa sudah mengunduh gambar yang 
 ![ss 8](https://github.com/user-attachments/assets/30fae816-a94f-416f-bdda-9ae1525c73a0)
 
 # 5. Pada link tambahkan atribut target dengan nilai atribut bervariasi (_blank, _self, _top, _parent). Apa yang terjadi pada masing-masing nilai atribut tersebut?
-jawab : Atribut _blank membuka link pada jendala baru, atribut _self membuka link pada jendela yang sama, atribut top membuka link pada seluruh jendela dan menghapus seluruh frame, atribut _parent membuka link pada jendela utama jika link berada di dalam frame yang sama
+jawab : Atribut _blank membuka link pada jendala baru, atribut _self membuka link pada jendela yang sama, atribut top membuka link pada seluruh jendela dan menghapus seluruh frame, atribut _parent membuka link pada jendela utama jika link berada di dalam frame yang sama.
+#Contoh _blank
+![Screenshot (18)](https://github.com/user-attachments/assets/1699348b-9a5b-48bf-afde-f774b32731a5)
+![Screenshot (17)](https://github.com/user-attachments/assets/fd74742c-2865-488e-85c2-af8621ac7050)![Screenshot (16)](https://github.com/user-attachments/assets/111dd3af-2113-48c4-b8f2-1a46556e500d)
+
