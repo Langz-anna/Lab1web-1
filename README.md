@@ -12,3 +12,7 @@ jawab : Tag p digunakan untuk membuat paragraf baru sedangkan tag br digunakan u
 jawab : Atribut title pada tag image digunakan sebagai informasi tambahan pada gambar yang muncul. Biasanya saat cursor mengarah kegambar, sebuah tooltip atau kalimat akan muncul dengan teks yang diatur pada kalimat title. Sedangkan atribut alt digunakan ketika gambar mengalami masalah atau tidak dapat ditampilkan, atribut ini juga bisa membantu pengguna yang mengalami gangguan pengelihatan saat melihat konten gambar. Dibawah ini merupakan contoh penggunaan atribut title dan alt pada tag image.
 ![ss 5](https://github.com/user-attachments/assets/53662018-6103-467f-b3e3-d5ed036d07bd)
 ![ss 6](https://github.com/user-attachments/assets/39168a8a-fa43-49e3-a15f-e547bfb797fb)
+
+# 4.  Untuk mengatur ukuran gambar, digunakan atribut width dan height. Agar tampilan gambar proporsional, sebaiknya kedua atribut tersebut diisi semua atau tidak?
+jawab : Semua tergantung pengguna, jika anda merasa sudah mengunduh gambar yang terlihat rapih atau presisi menurut anda, anda bisa saja tidak menggunakan keduanya atau bisa saja menggunakan salah satunya. Namun, jika anda merasa gambar yang anda unduh kurang rapih atau presisi, anda bisa menggunakan witdh dan height sesuai kebutuhan anda untuk menyesuaikan gambar. Dibawah ini saya akan memperlihatkan penggunaan width dan height untuk menyesuaikan gambar.
+
