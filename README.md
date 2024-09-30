@@ -17,3 +17,6 @@ jawab : Atribut title pada tag image digunakan sebagai informasi tambahan pada g
 jawab : Semua tergantung pengguna, jika anda merasa sudah mengunduh gambar yang terlihat rapih atau presisi menurut anda, anda bisa saja tidak menggunakan keduanya atau bisa saja menggunakan salah satunya. Namun, jika anda merasa gambar yang anda unduh kurang rapih atau presisi, anda bisa menggunakan witdh dan height sesuai kebutuhan anda untuk menyesuaikan gambar. Dibawah ini saya akan memperlihatkan penggunaan width dan height untuk menyesuaikan gambar.
 ![ss 7](https://github.com/user-attachments/assets/267ebe59-5ee2-4a04-9ec0-0fb10206722b)
 ![ss 8](https://github.com/user-attachments/assets/30fae816-a94f-416f-bdda-9ae1525c73a0)
+
+# 5. Pada link tambahkan atribut target dengan nilai atribut bervariasi (_blank, _self, _top, _parent). Apa yang terjadi pada masing-masing nilai atribut tersebut?
+jawab : Atribut _blank membuka link pada jendala baru, atribut _self membuka link pada jendela yang sama, atribut top membuka link pada seluruh jendela dan menghapus seluruh frame, atribut _parent membuka link pada jendela utama jika link berada di dalam frame yang sama
