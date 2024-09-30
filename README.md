@@ -22,5 +22,17 @@ jawab : Semua tergantung pengguna, jika anda merasa sudah mengunduh gambar yang 
 jawab : Atribut _blank membuka link pada jendala baru, atribut _self membuka link pada jendela yang sama, atribut top membuka link pada seluruh jendela dan menghapus seluruh frame, atribut _parent membuka link pada jendela utama jika link berada di dalam frame yang sama.
 #Contoh _blank
 ![Screenshot (18)](https://github.com/user-attachments/assets/1699348b-9a5b-48bf-afde-f774b32731a5)
-![Screenshot (17)](https://github.com/user-attachments/assets/fd74742c-2865-488e-85c2-af8621ac7050)![Screenshot (16)](https://github.com/user-attachments/assets/111dd3af-2113-48c4-b8f2-1a46556e500d)
-
+![Screenshot (16)](https://github.com/user-attachments/assets/111dd3af-2113-48c4-b8f2-1a46556e500d)
+![Screenshot (17)](https://github.com/user-attachments/assets/fd74742c-2865-488e-85c2-af8621ac7050)
+#Contoh _self
+![Screenshot (21)](https://github.com/user-attachments/assets/b0d9b147-8fc8-4c25-9386-831907993f7b)
+![Screenshot (19)](https://github.com/user-attachments/assets/06ffd715-e3ba-4801-a039-b44df292851d)
+![Screenshot (20)](https://github.com/user-attachments/assets/368c243b-1fc5-4d93-b4b8-fece909f663e)
+#Contoh _top
+![Screenshot (22)](https://github.com/user-attachments/assets/7bb26685-6513-48d2-9c33-717330dfa642)
+![Screenshot (23)](https://github.com/user-attachments/assets/33433e2a-a0ad-47c6-a48e-e79b1a341c8c)
+![Screenshot (24)](https://github.com/user-attachments/assets/cbcb2e27-e100-490f-9686-53f432a785fd)
+#Contoh _parent
+![Screenshot (25)](https://github.com/user-attachments/assets/bf70b87f-f889-4650-9efe-320282f5c545)
+![Screenshot (26)](https://github.com/user-attachments/assets/5d50ca7c-12d1-4d25-a2ed-24f1fa762d45)
+![Screenshot (27)](https://github.com/user-attachments/assets/0cdde2c2-1258-445c-bad2-736eda8626c5)
