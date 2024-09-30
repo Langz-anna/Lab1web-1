@@ -1,4 +1,4 @@
 # Lab1web
 1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah
 error ketika terjadi kesalahan penulisan tag?
-![Chain Logo](https://github.com/Dimasi1234/Lab1web/blob/main/ss2.png)
+![Hasil praktikum](https://github.com/Dimasi1234/Lab1web/blob/main/ss2.png)
